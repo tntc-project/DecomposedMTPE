@@ -48,7 +48,7 @@ We impose the following three constraints on the edit operations (Yamaguchi et a
 
 ## Acknowledgments
 
-Construction of the dataset was supported by JSPS KAKENHI Grant Numbers [JP19H05660](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H05660/) and [JP23H03689](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23H03689).
+Construction of the dataset was supported by JSPS KAKENHI Grant Numbers [JP19H05660](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H05660/) and [JP23K28378](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23K28378/).
 
 ## Author and Citation
 
@@ -58,10 +58,11 @@ Daichi Yamaguchi, the first author of the following paper, developed this resour
 @inproceedings{lreccoling-2024-yamaguchi,
   author    = {Daichi Yamaguchi and Rei Miyata and Atsushi Fujita and Tomoyuki Kajiwara and Satoshi Sato},
   title     = {Automatic Decomposition of Text Editing Examples into Primitive Edit Operations: Toward Analytic Evaluation of Editing Systems},
-  booktitle = {Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING) (to appear)},
+  booktitle = {Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)},
   year      = {2024},
   address   = {Torino, Italia},
-  pages     = {X--X},
+  pages     = {1899--1914},
+  url       = {https://aclanthology.org/2024.lrec-main.170/}
 }
 ```
 
